@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://njgt5fhb5gmnljhcghvv4t.streamlit.app/$1"
+    }
+  ]
+}
